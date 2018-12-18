@@ -1,0 +1,58 @@
+Plan !
+
+Ziel: Spiel ... TowerDefense in 2D
+
+Horde von Feinden, die kontinuierlich einen Bereich überrennt,
+plazieren von Geschützen, um die Festung verteidigen ...
+Feinde werden eliminiert
+
+Häufige Eigenschaften:
+
+- gerasterte Karte
+- Begrenzung (Anzahl ... Ressourcen ... Platz)
+- Aufleveln
+- Attribute Türmen (Stärke, Schussfrequenz)
+- Lebensbalken: Welt, Feinden, Türmen
+- Möglicherweise schiessen die Feinde zurück
+- Rundenbasiertes Spielen (ansteigende Schwierigkeit, 
+		ansteigende Belohnung)
+- Typen von Türmen
+- Typen von Feinden
+- Labyrinth aus Türmen (Feld ist quadratisch und 
+		
+		
+Wie spielt man das Spiel (Regeln) ?
+
+- Bauphase und eine Wavephase
+- Phasen folgen aufeinander
+- Phasen laufen gleichzeitig
+- Ressourcenmanagment 
+- 
+
+
+Umsetzung
+
+- grafische Oberfläche (Widgets: Buttons, Slider, Textboxen, Images etc.)
+- Hintergrundmusik
+- Akustische Effekte
+- Spiel gewonnen, wenn Zeit abgelaufen ist
+- Spiel verloren, wenn Anzahl von Feinden das Zielerreicht hat
+- Feinde folgen dem Pfad oder der Farbe des Weges
+- Feinde werden animiert (Laufanimation, Sterbeanimation, Kampfanimation, Freude...)
+- Schüsse werden animiert
+- Towers werden animiert
+- Lebensbalken werden animiert 
+- (Sand)Uhr wird animiert
+- Explosionen werden animiert
+- Trefferexplosion, Mündungsfeuer 
+- Steuerung über Maus
+- Per Klick auf bestimmte Stellen (Vorgegebene Positionen im Feld)
+- Auswahl erscheint -> Option wählen -> klickt in das Overlay ->
+- Auswahl schliesst sich
+- Tower wird an der gewählten Position platziert (und beginnt seine Arbeit)
+
+
+
+
+
+
