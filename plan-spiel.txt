@@ -58,6 +58,12 @@ git init
 git add *
 git commit -m "die Beschreibung"
 
+1 Mal 
+	git remote add origin https://github.com/drmilde/kursProjekt.git
+
+git push -u origin master
+
+
 
 
 
