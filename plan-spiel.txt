@@ -52,6 +52,13 @@ Umsetzung
 - Tower wird an der gewählten Position platziert (und beginnt seine Arbeit)
 
 
+Arbeiten mit GIT
+
+git init
+git add *
+git commit -m "die Beschreibung"
+
+
 
 
 
